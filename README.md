@@ -4,8 +4,7 @@
 
 ## IDFM Partner
 
-[🔗 IDFM search](blablacardaily://search?departure_location=lat%3D48.803890%2Clon%3D2.126782&arrival_location=lat%3D48.869384%2Clon%3D2.337933&departure_datetime=2021-08-23T08%3A00%3A00%2B01%3A00&partner=NAVIGO&utm_campaign=FR_NAT_PARTNERS)
-
+#### Search on IDFM
 ```
 blablacardaily://search
   ?departure_location=lat%3D48.803890%2Clon%3D2.126782
@@ -14,6 +13,7 @@ blablacardaily://search
   &partner=NAVIGO
   &utm_campaign=FR_NAT_PARTNERS
 ```
+- [🔗 With `blablacardaily://` scheme](blablacardaily://search?departure_location=lat%3D48.803890%2Clon%3D2.126782&arrival_location=lat%3D48.869384%2Clon%3D2.337933&departure_datetime=2021-08-23T08%3A00%3A00%2B01%3A00&partner=NAVIGO&utm_campaign=FR_NAT_PARTNERS)
 
 ## Google Maps Partner
 
