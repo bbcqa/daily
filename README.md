@@ -1,5 +1,7 @@
 ℹ️ Repository exposing **public** links &amp; resources to the "BBC Daily" testers.
 
+<!-- Remember that blank lines are needed before/after a section of markdown that is within an html tag, otherwise the markdown won't work -->
+
 # IDFM Partner
 
 [🔗 IDFM search](blablacardaily://search?departure_location=lat%3D48.803890%2Clon%3D2.126782&arrival_location=lat%3D48.869384%2Clon%3D2.337933&departure_datetime=2021-08-23T08%3A00%3A00%2B01%3A00&partner=NAVIGO&utm_campaign=FR_NAT_PARTNERS)
@@ -58,6 +60,7 @@ blablacardaily://search
     &dropoff_latitude=48.11177009606368
     &dropoff_longitude=-1.6775474034472833
   ```
+
 </details>
 
 <details>
@@ -103,4 +106,5 @@ blablacardaily://search
     &dropoff_latitude=48.11177009606368
     &dropoff_longitude=-1.6775474034472833
   ```
+
 </details>
