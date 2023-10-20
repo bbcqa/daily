@@ -18,7 +18,7 @@ blablacardaily://search
 ## Google Maps Partner
 
 <details>
-<summary><h4>Links with <code>blablacardaily://</code> scheme</h4></summary>
+<summary>Links with `blablacardaily://` scheme</summary>
 
 [🔗 Google Maps search with pickup=my_location & drop-off in IDF](blablacardaily://book-a-ride?pickup=my_location&dropoff_latitude=48.803890&dropoff_longitude=2.126782)
 
@@ -64,7 +64,7 @@ blablacardaily://book-a-ride
 </details>
 
 <details>
-<summary><h4>Links with <code>https://</code> scheme</h4></summary>
+<summary>Links with `https://` scheme</summary>
 
 [🔗 Google Maps search with pickup=my_location & drop-off in IDF](https://open.blablacardaily.com/book-a-ride?pickup=my_location&dropoff_latitude=48.803890&dropoff_longitude=2.126782)
 
