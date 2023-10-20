@@ -20,6 +20,8 @@ blablacardaily://search
 <details>
 <summary>Links with `blablacardaily://` scheme</summary>
 
+### TEST
+
 [🔗 Google Maps search with pickup=my_location & drop-off in IDF](blablacardaily://book-a-ride?pickup=my_location&dropoff_latitude=48.803890&dropoff_longitude=2.126782)
 
 ```
