@@ -4,6 +4,11 @@
 
 ## IDFM Partner
 
+#### IDFMConnect Accounts Management
+
+- [🔗 Integration](https://int-connect.navigo.fr/auth/realms/connect/protocol/openid-connect/auth?client_id=account)
+- [🔗 Production](https://connect.navigo.fr/auth/realms/connect/protocol/openid-connect/auth?client_id=account)
+
 #### Search on IDFM
 ```
 blablacardaily://search
