@@ -2,6 +2,19 @@
 
 <!-- Remember that blank lines are needed before/after a section of markdown that is within an html tag, otherwise the markdown won't work -->
 
+## Klaxit
+
+#### Sign Up
+
+```
+blablacardaily://klaxit_sign_up
+  ?first_name=Pierre%20Olivier
+  &picture_url=https%3A%2F%2Fklaxit.com%2Fpicture%2Fuser42.png
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://klaxit_sign_up?first_name=Klaxit&picture_url=https%3A%2F%2Fdxxbxu0f802py.cloudfront.net%2Fwp-content%2Fuploads%2F2023%2F03%2F14100407%2F03.png)
+
+
 ## IDFM Partner
 
 #### IDFMConnect Accounts Management
