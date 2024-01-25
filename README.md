@@ -2,6 +2,19 @@
 
 <!-- Remember that blank lines are needed before/after a section of markdown that is within an html tag, otherwise the markdown won't work -->
 
+## Company
+
+#### Affiliation
+
+```
+blablacardaily://company_affiliation
+  ?company_id=ebf1901c-290a-41b1-8edf-33ac9ed36b6c
+  &affiliation_code=topSecret
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://company_affiliation?company_id=ebf1901c-290a-41b1-8edf-33ac9ed36b6c&affiliation_code=topSecret)
+
+
 ## Klaxit
 
 #### Sign Up
