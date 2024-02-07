@@ -2,6 +2,17 @@
 
 <!-- Remember that blank lines are needed before/after a section of markdown that is within an html tag, otherwise the markdown won't work -->
 
+## Settings
+
+#### Benefits
+
+```
+blablacardaily://benefits
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://benefits)
+
+
 ## Company
 
 #### Affiliation
