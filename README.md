@@ -12,6 +12,14 @@ blablacardaily://benefits
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://benefits)
 
+#### Referral
+
+```
+blablacardaily://referral?code=H2VZAN
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://referral?code=H2VZAN)
+
 
 ## Company
 
