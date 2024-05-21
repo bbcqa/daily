@@ -4,6 +4,14 @@
 
 ## Settings
 
+#### Carpool report
+
+```
+blablacardaily://carpool_report
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://carpool_report)
+
 #### Benefits
 
 ```
