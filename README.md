@@ -127,6 +127,7 @@ blablacardaily://book-a-ride
 
 - [blablacardaily://home?origin=3DQUICKSTART_NEW_MEMBER](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
 - [blablacardaily://home](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
+- [TEST](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablalines%3A%2F%2Fhome%3Futm_source%3DBBCD%26utm_campaign%3DFR_ALL_BBCD_PREPROD_QUICKSTART_NEW_MEMBER_ALL%26utm_medium%3DPREPROD_QUICKSTART&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
 
 ### Production (`dfj5.adj.st`)
 
