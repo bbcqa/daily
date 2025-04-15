@@ -125,8 +125,9 @@ blablacardaily://book-a-ride
 
 ### Staging (`l6v5.adj.st`)
 
-- [blablacardaily://home?origin=QUICKSTART_NEW_MEMBER](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
-- [Company affiliation](https://l6v5.adj.st/openapp?adjust_t=1hskawr2&adjust_deeplink=blablacardaily%3A%2F%2Fcompany_affiliation%3Fcompany_uuid%3D6fe0c6a8-049d-4030-8ced-64cf3c452c49%26affiliation_code%3DiKZ704BaM937vFqiQN2juVdxQXFnlEGTDRqy0ARPhZk&adjust_fallback=https%3A%2F%2Fblablacardaily.com&adj_redirect_macos=https%3A%2F%2Fblablacardaily.com)
+- [Adjust tracker `14wcmffh` (QuickStart New Members)](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
+- [Adjust tracker `1hskawr2` (Company Affiliation) n°1](https://l6v5.adj.st/openapp?adjust_t=1hskawr2&adjust_deeplink=blablacardaily%3A%2F%2Fcompany_affiliation%3Fcompany_uuid%3D6fe0c6a8-049d-4030-8ced-64cf3c452c49%26affiliation_code%3DiKZ704BaM937vFqiQN2juVdxQXFnlEGTDRqy0ARPhZk&adjust_fallback=https%3A%2F%2Fblablacardaily.com&adj_redirect_macos=https%3A%2F%2Fblablacardaily.com)
+- [Adjust tracker `1hskawr2` (Company Affiliation) n°2](https://l6v5.adj.st/openapp?adjust_t=1hskawr2&adjust_deeplink=blablacardaily%3A%2F%2Fhome&adjust_fallback=https%3A%2F%2Fblablacardaily.com&adj_redirect_macos=https%3A%2F%2Fblablacardaily.com)
 
 ### Production (`dfj5.adj.st`)
 
