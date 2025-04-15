@@ -125,7 +125,8 @@ blablacardaily://book-a-ride
 
 ### Staging (`l6v5.adj.st`)
 
-- [blablacardaily://home](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
+- [blablacardaily://home?origin=3DQUICKSTART_NEW_MEMBER](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
+- [blablacardaily://home](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
 
 ### Production (`dfj5.adj.st`)
 
