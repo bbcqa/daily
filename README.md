@@ -119,3 +119,14 @@ blablacardaily://book-a-ride
 ```
 - [🔗 With `blablacardaily://` scheme](blablacardaily://book-a-ride?pickup=my_location&dropoff_latitude=48.11177009606368&dropoff_longitude=-1.6775474034472833)
 - [🔗 With `https://` scheme](https://open.blablacardaily.com/book-a-ride?pickup=my_location&dropoff_latitude=48.11177009606368&dropoff_longitude=-1.6775474034472833)
+
+
+## Adjust links
+
+### Staging (`l6v5.adj.st`)
+
+- [blablacardaily://home](https://l6v5.adj.st/openapp?adjust_t=14wcmffh&adjust_deeplink=blablacardaily%3A%2F%2Fhome%3Forigin%3DQUICKSTART_NEW_MEMBER&adjust_fallback=https%3A%2F%2Fblablacardaily.com)
+
+### Production (`dfj5.adj.st`)
+
+- TODO
