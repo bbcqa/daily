@@ -29,7 +29,7 @@ blablacardaily://referral?code=H2VZAN
 - [🔗 With `blablacardaily://` scheme](blablacardaily://referral?code=H2VZAN)
 
 
-## Company
+## Company (B2B)
 
 #### Affiliation
 
@@ -40,6 +40,19 @@ blablacardaily://company_affiliation
 ```
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://company_affiliation?company_id=ebf1901c-290a-41b1-8edf-33ac9ed36b6c&affiliation_code=topSecret)
+
+
+## Sponsor (B2G)
+
+#### Affiliation
+
+```
+blablacardaily://sponsor_affiliation
+  ?sponsor_uuid=ebf1901c-290a-41b1-8edf-33ac9ed36b6c
+  &affiliation_code=topSecret
+```
+
+- [🔗 With `blablacardaily://` scheme](blablacardaily://sponsor_affiliation?sponsor_uuid=ebf1901c-290a-41b1-8edf-33ac9ed36b6c&affiliation_code=topSecret)
 
 
 ## Klaxit
