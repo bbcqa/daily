@@ -48,11 +48,11 @@ blablacardaily://company_affiliation
 
 ```
 blablacardaily://sponsor_affiliation
-  ?sponsor_uuid=9dd499ee-b15d-49ed-8ef6-3a4947630adf
-  &affiliation_code=topSecret
+  ?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef
+  &affiliation_code=s8f4o036a2dv
 ```
 
-- [🔗 With `blablacardaily://` scheme](blablacardaily://sponsor_affiliation?sponsor_uuid=9dd499ee-b15d-49ed-8ef6-3a4947630adf&affiliation_code=topSecret)
+- [🔗 With `blablacardaily://` scheme](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=s8f4o036a2dv)
 
 
 ## Klaxit
