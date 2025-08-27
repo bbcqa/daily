@@ -61,7 +61,9 @@ blablacardaily://sponsor_affiliation
 - [🔗 Affiliation code `zvtc14d8ipwd`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=zvtc14d8ipwd)
 - [🔗 Affiliation code `lsghap9rn718`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=lsghap9rn718)
 - [Another sponsor](blablacardaily://sponsor_affiliation?sponsor_uuid=fea00ef7-9bdc-401d-8483-480dd2a437a9&affiliation_code=UJ1ie_z3ZQAJbMtZ5DFnjxY7dTzA1aeesNJg9zKf7Kw)
-
+Erwann:
+- [🔗 Affiliation code `lsghap9rn718`](blablacardaily://sponsor_affiliation?sponsor_uuid=3878e00b-c882-4ed0-bc4c-a3285724fd24&affiliation_code=wd4wgw3h37ho)
+- [🔗 Affiliation code `lsghap9rn718`](blablacardaily://sponsor_affiliation?sponsor_uuid=3878e00b-c882-4ed0-bc4c-a3285724fd24&affiliation_code=ae3mao5l0yfh) 
 
 ## Klaxit
 
