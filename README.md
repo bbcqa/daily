@@ -62,6 +62,23 @@ blablacardaily://sponsor_affiliation
 - [🔗 Affiliation code `lsghap9rn718`](blablacardaily://sponsor_affiliation?sponsor_uuid=545e51f7-741d-4522-bd07-b010be2c34ef&affiliation_code=lsghap9rn718)
 - [Another sponsor](blablacardaily://sponsor_affiliation?sponsor_uuid=fea00ef7-9bdc-401d-8483-480dd2a437a9&affiliation_code=UJ1ie_z3ZQAJbMtZ5DFnjxY7dTzA1aeesNJg9zKf7Kw)
 
+## Carpooling Lines
+
+### Passenger scanning a stop pole QR code
+```
+blablacardaily://carpooling_lines
+  ?stop_id=ebcf2f16-5362-49f6-9760-187788333e6b
+```
+
+- [🔗 Fake id with `blablacardaily://` scheme](blablacardaily://carpooling_lines?stop_id=FAKE_ID)
+
+### Driver scanning a passenger QR code
+```
+blablacardaily://carpooling_lines
+  ?carpooling_line_trip_id=9e865165-6616-45b1-b588-a352ce5892e1
+```
+
+- [🔗 Fake id with `blablacardaily://` scheme](blablacardaily://carpooling_lines?carpooling_line_trip_id=FAKE_ID)
 
 ## Klaxit
 
