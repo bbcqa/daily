@@ -75,10 +75,10 @@ blablacardaily://carpooling_lines
 ### Driver scanning a passenger QR code
 ```
 blablacardaily://carpooling_lines
-  ?carpooling_line_trip_id=9e865165-6616-45b1-b588-a352ce5892e1
+  ?line_publish_id=9e865165-6616-45b1-b588-a352ce5892e1
 ```
 
-- [🔗 Fake id with `blablacardaily://` scheme](blablacardaily://carpooling_lines?carpooling_line_trip_id=FAKE_ID)
+- [🔗 Fake id with `blablacardaily://` scheme](blablacardaily://carpooling_lines?ling_publish_id=FAKE_ID)
 
 ## Klaxit
 
