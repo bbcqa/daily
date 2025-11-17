@@ -31,7 +31,7 @@ blablacardaily://referral?code=H2VZAN
 #### Statistics
 
 ```
-blablacardaily://statistics ?tab=current_year &auto_share=true
+blablacardaily://statistics?tab=current_year&auto_share=true
 ```
 
 - [🔗 With `blablacardaily://` scheme (default)](blablacardaily://statistics)
