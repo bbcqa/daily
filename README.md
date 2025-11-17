@@ -28,6 +28,18 @@ blablacardaily://referral?code=H2VZAN
 
 - [🔗 With `blablacardaily://` scheme](blablacardaily://referral?code=H2VZAN)
 
+#### Statistics
+
+```
+blablacardaily://statistics ?tab=current_year &auto_share=true
+```
+
+- [🔗 With `blablacardaily://` scheme (default)](blablacardaily://statistics)
+- [🔗 Tab: All Time](blablacardaily://statistics?tab=all_time)
+- [🔗 Tab: Current Month](blablacardaily://statistics?tab=current_month)
+- [🔗 Tab: Current Year](blablacardaily://statistics?tab=current_year)
+- [🔗 Tab: Current Year & Auto-Share](blablacardaily://statistics?tab=current_year&auto_share=true)
+
 
 ## Company (B2B)
 
