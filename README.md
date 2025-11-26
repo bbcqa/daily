@@ -98,7 +98,7 @@ blablacardaily://carpooling_lines
   ?line_publish_id=9e865165-6616-45b1-b588-a352ce5892e1
 ```
 
-- [🔗 Fake id with `blablacardaily://` scheme](blablacardaily://carpooling_lines?ling_publish_id=FAKE_ID)
+- [🔗 With `blablacardaily://` scheme](blablacardaily://carpooling_lines?line_publish_id=557515b6-b818-4952-ad1f-fc8ffeafcd09)
 
 ## Klaxit
 
